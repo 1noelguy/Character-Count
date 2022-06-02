@@ -1,0 +1,29 @@
+body{
+    padding: 20% 30%;
+    background-image: linear-gradient( 45deg, aqua,blue );
+}
+
+span{
+    margin: 70px;
+    padding: 0 10% 0 10%;
+    color: azure;
+
+}
+
+
+.parent{
+    text-align: center;
+    border-width: 2px;
+    border-style: double;
+    border-radius: 7px;
+    background-color: black;
+}
+
+h3{
+    text-align: center;
+    color: azure;
+}
+
+textarea{
+    margin-bottom: 20px;
+}
